@@ -42,6 +42,8 @@
 }
 
 .title-image{
+    /* position: absolute;
+    right: 10%; */
     width: 50rem;
     height: 40rem;
 }
@@ -54,3 +56,24 @@
         position: static;
       }
 } */
+
+/* Features */
+.featured-icons{
+    color: #ef8172;
+    padding-bottom: 6%;
+}
+
+.featured-icons:hover {
+    color:  #B5000E;
+}
+
+.feature-box {
+    padding: 5%;
+    text-align: center;
+}
+
+.features{
+    padding: 7% 15%;
+    background-color: white;
+    position: relative;
+}
